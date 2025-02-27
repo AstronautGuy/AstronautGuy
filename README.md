@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on website designing.<br>👯 I’m looking to collaborate on learning tech stacks.<br>🤝 I’m looking for help with helping me understand which tech stack is good. <br>🌱 I’m currently learning web development.<br>💬 Never Ask me about my relationship 🥲.<br>⚡ Fun fact: I mostly work at nights.
+🔭 I’m currently working on website designing.<br>👯 I’m looking to collaborate on learning tech stacks.<br>🤝 I’m looking for help in understanding which tech stack is good. <br>🌱 I’m currently learning web development.<br>💬 Never Ask me about my relationship 🥲.<br>⚡ Fun fact: I mostly work at nights.
 
 
 ## 🌐 Socials:
